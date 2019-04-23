@@ -1,4 +1,6 @@
 # skel just for demo
+* [依赖](##依赖)
+* [注意](##注意)
 
 ## 依赖
     wsp: github.com/simplejia/wsp
